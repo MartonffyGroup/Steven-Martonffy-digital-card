@@ -1,2 +1,0 @@
-- name: Generate OG Image
-  uses: agneym/generate-og-image@1.0.3
