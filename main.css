@@ -184,6 +184,7 @@ img.logo {
 	font-family: 'Muli', sans-serif;
 	color: #23272e;
 	font-weight: 300;
+	margin: 0 10px;
 }
 
 @media screen and (max-width: 600px) {
