@@ -164,7 +164,7 @@ img.logo {
 .text-detail {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
-    color: #575757;
+    color: #ffffff;
     font-size: 12px;
 }
 
@@ -173,7 +173,7 @@ img.logo {
 }
 
 .button {
-	background-color: #23272e;
+	background-color: #ffffff;
 	height: 48px;
 	padding-left: 24px
 	padding-right: 24px;
@@ -181,7 +181,7 @@ img.logo {
 	vertical-align: middle;
 	line-height: 48px;
 	font-family: 'Muli', sans-serif;
-	color: white;
+	color: #23272e;
 	font-weight: 300;
 }
 
